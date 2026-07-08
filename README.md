@@ -192,8 +192,7 @@ This project helped me practice:
 
 ## Purpose
 
-This repository documents my Python learning journey. I will continue adding more projects as I learn new concepts.
-
+This repository documents my Python learning journey and contains projects built while exploring programming, problem-solving, and AI development. I will continue adding new projects as I learn and grow my skills.
 ---
 More projects coming soon.
 ## Author
